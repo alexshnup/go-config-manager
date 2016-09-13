@@ -16,7 +16,7 @@ package yaml
 import (
 	"io/ioutil"
 
-	"gopkg.in/yaml.v2"
+	"github.com/alexshnup/yaml.v2"
 )
 
 // ConfigManager struct
